@@ -1,2 +1,3 @@
 this file was made into the feature branch
+this file was edited in feature-3 branch
 this file was edited in feature-2
